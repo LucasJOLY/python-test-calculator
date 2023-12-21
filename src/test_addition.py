@@ -1,4 +1,4 @@
-from calculator import add
+from calculator.py import add
 import pytest
 def test_add():
 	 result = add(3, 4)
